@@ -9,7 +9,7 @@ function Footer() {
       <div className="max-w-xl mx-auto text-center">
         <h3 className="text-2xl font-bold text-gray-800">Stay Connected</h3>
         <p className="text-sm mt-4 text-gray-500">
-          Subscribe to our blog for the latest articles, tips, and insights. Don't miss out on valuable updates!
+          Subscribe to our blog for the latest articles tips and insights. Dont miss out on valuable updates
         </p>
         <div className="bg-gray-100 flex px-2 py-1.5 rounded-full text-left mt-8">
           <input
@@ -30,7 +30,7 @@ function Footer() {
         <div>
           <h4 className="text-base font-bold mb-6 text-gray-800">About the Blog</h4>
           <p className="text-gray-500 mb-2 text-sm leading-relaxed">
-            Explore a wide range of articles covering technology, lifestyle, travel, and more. Join our community of avid readers.
+            Explore a wide range of articles covering technology, lifestyle, travel and more. Join our community of avid readers.
           </p>
         </div>
         <div>
@@ -86,7 +86,7 @@ function Footer() {
         <div>
           <h4 className="text-base font-bold mb-6 text-gray-800">Contact Us</h4>
           <p className="text-gray-500 text-sm mb-4">
-            Have questions? Feel free to reach out to us. We're here to help.
+            Have questions? Feel free to reach out to us Were here to help
           </p>
           <ul className="space-y-3">
             <li>
