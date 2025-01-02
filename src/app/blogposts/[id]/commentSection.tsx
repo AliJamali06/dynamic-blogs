@@ -15,7 +15,7 @@ const CommentsSection = () => {
 
   return (
     <section>
-      <h2 className="text-2xl font-semibold mb-2">Comments</h2>
+      <h2 className="text-2xl font-semibold mb-8 mt-4">Comments</h2>
       <div className="mb-4">
         {comments.map((comment, index) => (
           <p key={index} className="border-b py-2">{comment}</p>
@@ -27,7 +27,7 @@ const CommentsSection = () => {
         value={newComment}
         onChange={(e) => setNewComment(e.target.value)}
         placeholder="Write a comment..."
-        className="border p-2 w-64"
+        className="border p-2 w-96"
       />
        <button
           onClick={handleAddComment}

@@ -56,7 +56,7 @@ const Navbar = () => {
             Home
           </Link>
           <Link
-            href="/blogpost"
+            href="/bolgpost"
             className="block px-4 py-2 text-lg font-medium text-gray-800 hover:text-blue-600 transition duration-300 ease-in-out md:inline"
             onClick={closeMenu}
           >
