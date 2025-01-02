@@ -9,7 +9,7 @@ const Blogpost = () => {
     { id: "3", title: "What is Next.js 15 ?", description: "Next.js 15 is a popular framework that is used for building web applications with React...", image: "/images3.jpg" },
     { id: "4", title: "What is python?", description: "Python is an object-oriented, high-level programming language. The main feature of python is that it comes with dynamic semantics.", image: "/images7.jpg" },
     { id: "5", title: "What is Cloud Computing?", description: "Cloud computing is the on-demand delivery of IT resources over the internet....", image: "/images6.jpg" },
-    { id: "6", title: "What is Next.js 15 ?", description: "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it....", image: "/images4.jpg" },
+    { id: "6", title: "React.js?", description: "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it....", image: "/images4.jpg" },
   ];
 
   return (
